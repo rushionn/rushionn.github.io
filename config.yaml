@@ -71,16 +71,14 @@ params:
     comments:
         enabled: true
         provider: disqus
-        type: disqus
 
         disqusjs:
             enable: true
             shortname: ruhionn
-            count: true
             apiUrl: https://rushionn.github.io/
             apiKey: ksBZf8Qy7iJ6ON7hykfjA7tL1BQEgAoMfyRNbpMyN0QVgqKPPcgJqTm7gKbg1I53
             admin: rushionn
-            adminLabel:
+            adminLabel:rushionn
 
         utterances:
             repo:
