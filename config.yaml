@@ -20,7 +20,7 @@ languages:
         weight: false
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: rushionn
 
 # GA Tracking ID
 googleAnalytics: G-FNDM35MCGM
@@ -75,10 +75,10 @@ params:
         disqusjs:
             enable: true
             shortname: rushionn
-            apiUrl: https://rushionn.github.io/
-            apiKey: ksBZf8Qy7iJ6ON7hykfjA7tL1BQEgAoMfyRNbpMyN0QVgqKPPcgJqTm7gKbg1I53
-            admin: rushionn
-            adminLabel: rushionn
+            apiUrl: 
+            apiKey: 
+            admin: 
+            adminLabel: 
 
         utterances:
             repo:
@@ -223,7 +223,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
