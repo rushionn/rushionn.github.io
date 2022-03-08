@@ -42,7 +42,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: img/mabinogi.png
 
     footer:
         since: 2022
@@ -155,7 +155,7 @@ params:
                   limit: 5
             - type: categories
               params:
-                  limit: 10
+                  limit: 5
             - type: tag-cloud
               params:
                   limit: 10
@@ -205,6 +205,18 @@ menu:
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/umiwued
+          params:
+              icon: brand-twitter
+
+        - identifier: instergram
+          name: Instergram
+          url: https://www.instagram.com/yidiwu1108/
+          params: 
+              icon: brand-instagram
+
+        - identifier: youtube
+          name: Youtube
+          url: https://www.youtube.com/channel/UCCyqyVr_zW8srGEhSOM3VYw
           params:
               icon: brand-twitter
 
