@@ -218,7 +218,7 @@ menu:
           name: Youtube
           url: https://www.youtube.com/channel/UCCyqyVr_zW8srGEhSOM3VYw
           params:
-              icon: brand-twitter
+              icon: brand-youtube
 
 related:
     includeNewer: true
