@@ -200,25 +200,25 @@ menu:
           name: GitHub
           url: https://github.com/rushionn/rushionn.github.io
           params:
-              icon: brand-github
+              icon: 001-github.png
 
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/umiwued
           params:
-              icon: brand-twitter
+              icon: 003-twitter.png
 
         - identifier: instergram
           name: Instergram
           url: https://www.instagram.com/yidiwu1108/
           params: 
-              icon: brand-instagram
+              icon: 002-instagram.png
 
         - identifier: youtube
           name: Youtube
           url: https://www.youtube.com/channel/UCCyqyVr_zW8srGEhSOM3VYw
           params:
-              icon: brand-youtube
+              icon: 004-youtube.png
 
 related:
     includeNewer: true
