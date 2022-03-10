@@ -208,7 +208,7 @@ menu:
           params:
               icon: twitter
 
-        - identifier: instergram
+        - identifier: instergram1
           name: Instergram
           url: https://www.instagram.com/yidiwu1108/
           params: 
@@ -219,6 +219,13 @@ menu:
           url: https://www.youtube.com/channel/UCCyqyVr_zW8srGEhSOM3VYw
           params:
               icon: youtube
+
+        - identifier: instergram
+          name: Instergram
+          url: https://www.instagram.com/yidiwu1108/
+          params: 
+              icon: instergram2
+
 related:
     includeNewer: true
     threshold: 60
