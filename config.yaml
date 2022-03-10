@@ -208,11 +208,11 @@ menu:
           params:
               icon: twitter
 
-        - identifier: instergram1
+        - identifier: instergram
           name: Instergram
           url: https://www.instagram.com/yidiwu1108/
           params: 
-              icon: instergram
+              icon: instergram1
 
         - identifier: youtube
           name: Youtube
