@@ -181,7 +181,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
@@ -254,3 +254,5 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+{{ template "_internal/google_analytics.html" . }}
