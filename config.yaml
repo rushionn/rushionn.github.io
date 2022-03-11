@@ -196,31 +196,31 @@ menu:
     main: []
 
     social:
-        - identifier: github
+        - identifier: 1-github
           name: GitHub
           url: https://github.com/rushionn/rushionn.github.io
           params:
               icon: github
 
-        - identifier: twitter
+        - identifier: 2-twitter
           name: Twitter
           url: https://twitter.com/umiwued
           params:
               icon: twitter
 
-        - identifier: instergram
+        - identifier: 3-instergram
           name: Instergram
           url: https://www.instagram.com/yidiwu1108/
           params: 
-              icon: instergram1
+              icon: instergram
 
-        - identifier: youtube
+        - identifier: 4-youtube
           name: Youtube
           url: https://www.youtube.com/channel/UCCyqyVr_zW8srGEhSOM3VYw
           params:
               icon: youtube
 
-        - identifier: discord
+        - identifier: 5-discord
           name: Discord
           url: https://rushionn.github.io
           params: 
