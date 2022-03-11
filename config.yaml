@@ -220,11 +220,11 @@ menu:
           params:
               icon: youtube
 
-        - identifier: instergram
-          name: Instergram
-          url: https://www.instagram.com/yidiwu1108/
+        - identifier: discord
+          name: Discord
+          url: https://rushionn.github.io
           params: 
-              icon: instergram2
+              icon: discord
 
 related:
     includeNewer: true
