@@ -212,7 +212,7 @@ menu:
           name: Instergram
           url: https://www.instagram.com/yidiwu1108/
           params: 
-              icon: ig
+              icon: instergram
 
         - identifier: youtube
           name: Youtube
