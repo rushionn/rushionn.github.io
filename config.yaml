@@ -255,4 +255,3 @@ markup:
         lineNumbersInTable: true
         tabWidth: 4
 
-{{ template "_internal/google_analytics.html" . }}
