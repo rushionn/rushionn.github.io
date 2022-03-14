@@ -20,14 +20,14 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --tag-border-radius: 4px;
 
-    --section-separation: 40px;
+    --section-separation: 10px;
 
     --scrollbar-thumb: hsl(0, 0%, 85%);
     --scrollbar-track: var(--body-background);
 
     &[data-scheme="dark"] {
-        --body-background: #303030;
-        --accent-color: #ecf0f1;
+        --body-background: #22272e;
+        --accent-color: #a2bac7;
         --accent-color-darker: #bdc3c7;
         --accent-color-text: #000;
         --body-text-color: rgba(255, 255, 255, 0.7);
