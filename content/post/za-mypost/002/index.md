@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Nvdia控制面板、模擬器對應設定"
 date = "2022-03-15"
-description = "減少遊戲閃退狀況"
+description = "減少遊戲閃退狀況。"
 tags = [
     "模擬器",
     "設定",
@@ -20,11 +20,11 @@ image = "002.png"
 
 ### 開啟面板，尋找模擬器↓↓
 
-![](Nvidia.png)
+![](Nvidia.png)  
 　
 　
-路徑ex: C:\Program Files\BlueStacks_nxt\HD-Player.exe
-可依照電腦狀況自行調整
+路徑ex: C:\Program Files\BlueStacks_nxt\HD-Player.exe  
+可依照電腦狀況自行調整  
 ![](Nvdia控制面板.png)
 
 
@@ -40,6 +40,8 @@ image = "002.png"
 
 ------------
 電腦配備：  
+|組件   |型號       |備註      |  
+| --------   | -----:  | :----:  |
 |CPU    | 3900X     |   12c24t|  
 |MB     | B550-i    |         |  
 |RAM    | DDR4-3200 |   16G x2|  

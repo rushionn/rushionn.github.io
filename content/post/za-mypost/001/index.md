@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "模擬器 一鍵多開"
+title = "模擬器一鍵多開"
 date = "2022-03-05"
-description = "還在那邊一個個勾選模擬器，不想一勞永逸嗎"
+description = "跳過多開管理器的勾選，設定固定開啟組合"
 tags = [
     "多開",
     "指令",
