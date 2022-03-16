@@ -21,10 +21,11 @@ image = "002.png"
 ### 開啟面板，尋找模擬器↓↓
 
 ![](Nvidia.png)  
-　
-　
+  
+  
 路徑ex: C:\Program Files\BlueStacks_nxt\HD-Player.exe  
 可依照電腦狀況自行調整  
+  
 ![](Nvdia控制面板.png)
 
 
