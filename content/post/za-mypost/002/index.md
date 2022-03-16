@@ -40,8 +40,9 @@ image = "002.png"
 
 ------------
 電腦配備：
-CPU 3900X 12c24t
-MB B550-i
-RAM 16Gx2 DDR4-3200
-GPU RTX2060OC ZOTAC GAMING
-POW SF-450
+|CPU    | 3900X     |   12c24t|
+|MB     | B550-i    |   
+|RAM    | DDR4-3200 |   16G x2|
+|GPU    |RTX2060OC  |   ZOTAC |
+|POW    |SF-450     |         |
+
