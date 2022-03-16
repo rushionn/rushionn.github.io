@@ -58,7 +58,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/mabinogi.png
+            src: img/umi.jpeg
 
     article:
         math: false
