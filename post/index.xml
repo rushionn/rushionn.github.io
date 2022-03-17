@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on プルスウルトラ</title><link>https://rushionn.github.io.git/post/</link><description>Recent content in Posts on プルスウルトラ</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rushionn.github.io.git/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Nvdia控制面板、模擬器對應設定</title><link>https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/</link><pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate><guid>https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/</guid><description>&lt;img src="https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/002.png" alt="Featured image of post Nvdia控制面板、模擬器對應設定" />&lt;h2 id="nvdia控制面板-bs5">Nvdia控制面板 (BS5)&lt;/h2>
-&lt;h3 id="開啟面板尋找模擬器">開啟面板，尋找模擬器↓↓&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on プルスウルトラ</title><link>https://rushionn.github.io.git/post/</link><description>Recent content in Posts on プルスウルトラ</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rushionn.github.io.git/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Nvdia控制面板、模擬器對應設定</title><link>https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/</link><pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate><guid>https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/</guid><description>&lt;img src="https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/002.png" alt="Featured image of post Nvdia控制面板、模擬器對應設定" />&lt;h2 id="開啟nvdia控制面板">開啟Nvdia控制面板&lt;/h2>
 &lt;p>&lt;img src="https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/Nvidia.png"
 width="1129"
 height="885"
@@ -9,8 +8,9 @@ class="gallery-image"
 data-flex-grow="127"
 data-flex-basis="306px"
 >&lt;/p>
-&lt;p>路徑ex: C:\Program Files\BlueStacks_nxt\HD-Player.exe&lt;br>
+&lt;p>路徑 C:\Program Files\BlueStacks_nxt\HD-Player.exe&lt;br>
 可依照電腦狀況自行調整&lt;/p>
+&lt;h2 id="程式設定">程式設定&lt;/h2>
 &lt;p>&lt;img src="https://rushionn.github.io.git/p/nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF%E6%A8%A1%E6%93%AC%E5%99%A8%E5%B0%8D%E6%87%89%E8%A8%AD%E5%AE%9A/Nvdia%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF.png"
 width="725"
 height="800"
@@ -69,34 +69,34 @@ data-flex-basis="336px"
 &lt;thead>
 &lt;tr>
 &lt;th>組件&lt;/th>
-&lt;th style="text-align:right">型號&lt;/th>
+&lt;th style="text-align:center">型號&lt;/th>
 &lt;th style="text-align:center">備註&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
 &lt;td>CPU&lt;/td>
-&lt;td style="text-align:right">3900X&lt;/td>
+&lt;td style="text-align:center">3900X&lt;/td>
 &lt;td style="text-align:center">12c24t&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>MB&lt;/td>
-&lt;td style="text-align:right">B550-i&lt;/td>
+&lt;td style="text-align:center">B550-i&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>RAM&lt;/td>
-&lt;td style="text-align:right">DDR4-3200&lt;/td>
+&lt;td style="text-align:center">DDR4-3200&lt;/td>
 &lt;td style="text-align:center">16G x2&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>GPU&lt;/td>
-&lt;td style="text-align:right">RTX2060OC&lt;/td>
+&lt;td style="text-align:center">RTX2060OC&lt;/td>
 &lt;td style="text-align:center">ZOTAC&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>POW&lt;/td>
-&lt;td style="text-align:right">SF-450&lt;/td>
+&lt;td style="text-align:center">SF-450&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;/tbody>
