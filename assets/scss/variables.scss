@@ -5,10 +5,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 *   Global style
 */
 :root {
-    --main-top-padding: 50px;
+    --main-top-padding: 35px;
 
     @include respond(xl) {
-        --main-top-padding: 10px;
+        --main-top-padding: 50px;
     }
 
     --body-background: #f5f5fa;
@@ -61,20 +61,20 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --card-border-radius: 10px;
 
-    --card-padding: 10px;
+    --card-padding: 20px;
 
     @include respond(md) {
-        --card-padding: 10px;
+        --card-padding: 25px;
     }
 
     @include respond(xl) {
-        --card-padding: 10px;
+        --card-padding: 30px;
     }
 
     --small-card-padding: 25px 20px;
 
     @include respond(md) {
-        --small-card-padding: 10px;
+        --small-card-padding: 25px;
     }
 
     &[data-scheme="dark"] {
