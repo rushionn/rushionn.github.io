@@ -23,7 +23,7 @@ image = "002.png"
 
   gtag('config', 'G-FNDM35MCGM');
 </script>
-<span id="busuanzi_container_site_uv">View<span id="busuanzi_value_site_uv"></span>.  
+
 
 
 
