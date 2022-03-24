@@ -24,6 +24,12 @@ image = "002.png"
   gtag('config', 'G-FNDM35MCGM');
 </script>
 
+
+本文點閱數<span id="busuanzi_value_site<i class="vOZBrLg">http://www.cppcns.com</i>_pv"&<span class="vOZBrLg">http://www.cppcns.com</span>gt;
+</span>次</span>
+
+
+
 ## 開啟Nvdia控制面板
 
 ![](Nvidia.png)  
