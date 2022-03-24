@@ -24,7 +24,7 @@ image = "spiderman1.gif"
 
   gtag('config', 'G-FNDM35MCGM');
 </script>
-
+瀏覽人數<span id="busuanzi_value_page_pv"></span>  
 
 
 

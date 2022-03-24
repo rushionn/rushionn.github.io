@@ -38,7 +38,7 @@ params:
 
     footer:
         since: 2022
-        customText:
+        customText: 本站總訪問量<span id="busuanzi_value_site_pv"></span>次
 
     dateFormat:
         published: Jan 02, 2006
