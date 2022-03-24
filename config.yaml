@@ -38,7 +38,7 @@ params:
 
     footer:
         since: 2022
-        customText: View<span id="busuanzi_value_site_uv"></span>.    
+        customText: <span id="busuanzi_container_site_uv">View<span id="busuanzi_value_site_uv"></span>.    
 
     dateFormat:
         published: Jan 02, 2006
