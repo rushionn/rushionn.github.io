@@ -6,7 +6,9 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-FNDM35MCGM');
 &lt;/script>
-&lt;p>&lt;span id="busuanzi_container_site_uv">View&lt;span id="busuanzi_value_site_uv">&lt;/span>.&lt;/p>
+&lt;p>本站总访问量&lt;span id="busuanzi_value_site_pv">&lt;/span>次
+本站访客数&lt;span id="busuanzi_value_site_uv">&lt;/span>人次
+本文总阅读量&lt;span id="busuanzi_value_page_pv">&lt;/span>次&lt;/p>
 &lt;h1 id="一鍵多開-bs5">一鍵多開 (BS5)&lt;/h1>
 &lt;p>&lt;em>示範一鍵三開，2開啟蔚藍檔案，1開楓之谷M&lt;/em>&lt;/p>
 &lt;h2 id="長按app建立桌面捷徑">長按App，建立桌面捷徑↓↓&lt;/h2>

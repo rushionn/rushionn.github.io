@@ -6,7 +6,7 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-FNDM35MCGM');
 &lt;/script>
-&lt;p>&lt;span id="busuanzi_container_site_uv">View&lt;span id="busuanzi_value_site_uv">&lt;/span>.&lt;/p>
+&lt;p>&lt;span id="busuanzi_value_site_uv">&lt;/span>Views.&lt;/p>
 &lt;h1 id="歡迎使用-markdown線上編輯器-mdeditor">歡迎使用 Markdown線上編輯器 MdEditor&lt;/h1>
 &lt;p>&lt;strong>Markdown是一種輕量級的「標記語言」&lt;/strong>&lt;/p>
 &lt;p>&lt;img src="https://www.mdeditor.tw/images/logos/markdown.png"
