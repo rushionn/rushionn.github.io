@@ -217,6 +217,7 @@ menu:
           url: https://rushionn.github.io
           params: 
               icon: discord
+            
 
 related:
     includeNewer: true
