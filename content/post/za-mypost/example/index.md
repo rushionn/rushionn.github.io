@@ -15,6 +15,19 @@ aliases = ["migrate-from-jekyl"]
 image = "spiderman1.gif"
 
 +++
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNDM35MCGM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FNDM35MCGM');
+</script>
+
+
+
+
 
 # 歡迎使用 Markdown線上編輯器 MdEditor
 

@@ -15,7 +15,15 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "00010.JPG"
 +++
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNDM35MCGM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-FNDM35MCGM');
+</script>
 
 # 一鍵多開 (BS5)
 
