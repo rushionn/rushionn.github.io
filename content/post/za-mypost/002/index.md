@@ -25,8 +25,10 @@ image = "002.png"
 </script>
 
 
-本文點閱數<span id="busuanzi_value_site<i class="vOZBrLg">http://www.cppcns.com</i>_pv"&<span class="vOZBrLg">http://www.cppcns.com</span>gt;
-</span>次</span>
+本站總訪問量<span id="busuanzi_value_site_pv"></span>次
+本站訪客數<span id="busuanzi_value_site_uv"></span>人次
+本文總閱讀量<span id="busuanzi_value_page_pv"></span>次
+
 
 
 
