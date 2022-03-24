@@ -28,7 +28,8 @@ image = "002.png"
 本站總訪問量<span id="busuanzi_value_site_pv"></span>次
 本站訪客數<span id="busuanzi_value_site_uv"></span>人次
 本文總閱讀量<span id="busuanzi_value_page_pv"></span>次
-
+ <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 
 
