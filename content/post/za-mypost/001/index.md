@@ -24,7 +24,7 @@ image = "00010.JPG"
 
   gtag('config', 'G-FNDM35MCGM');
 </script>
-View<span id="busuanzi_value_site_uv"></span>
+View<span id="busuanzi_value_site_uv"></span>.  
 
 
 # 一鍵多開 (BS5)
