@@ -14,7 +14,15 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "002.png"
 +++
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNDM35MCGM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-FNDM35MCGM');
+</script>
 
 ## 開啟Nvdia控制面板
 
