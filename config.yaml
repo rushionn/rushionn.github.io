@@ -181,6 +181,8 @@ params:
         content:
             enabled: true
 
+    typeit: ture
+
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
