@@ -18,48 +18,5 @@ menu:
         params:
             icon: link
 
-comments: false
----
----
-
-new TypeIt("#element", { 
-    lifeLike: false, 
-    speed: 0 
-})
-	.type("S")
-	.pause(332)
-	.type("h")
-	.pause(599)
-	.type("e")
-	.pause(513)
-	.type("i")
-	.pause(148)
-	.type("s")
-	.pause(873)
-	.type("m")
-	.pause(391)
-	.type("y")
-	.pause(268)
-	.type("s")
-	.pause(171)
-	.type("i")
-	.pause(167)
-	.type("s")
-	.pause(254)
-	.type("t")
-	.pause(160)
-	.type("e")
-	.pause(135)
-	.type("r")
-	.go();
-
-
-
-
-
-
-
-
-
-<script src="https://unpkg.com/typeit@8.3.3/dist/index.umd.js"></script>
+comments: true
 ---
