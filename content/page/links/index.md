@@ -21,11 +21,11 @@ menu:
 comments: false
 ---
 ######
-new TypeIt("#element", { 
-    lifeLike: false, 
-    speed: 0 
-})
-	.delete(13, {instant: true})
+new TypeIt("#element", {
+  strings: "This is my string!",
+  speed: 75,
+  loop: true,
+})	.delete(13, {instant: true})
 	.type("ㄊ")
 	.pause(78)
 	.type("ㄨ")
@@ -153,7 +153,8 @@ new TypeIt("#element", {
 	.type(".")
 	.pause(332)
 	.type(" ")
-	.go();
+  .go();
+
 
 
 
