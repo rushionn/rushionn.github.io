@@ -46,7 +46,7 @@ params:
 
     sidebar:
         emoji: false
-        subtitle: 千錘百鍊??
+        subtitle: 千錘百鍊
         avatar:
             enabled: true
             local: true
@@ -181,7 +181,7 @@ params:
         content:
             enabled: true
 
-    typeit: ture
+
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
