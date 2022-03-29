@@ -13,8 +13,6 @@ categories = [
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "spiderman1.gif"
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
 +++
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FNDM35MCGM"></script>
