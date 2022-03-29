@@ -715,10 +715,10 @@ loading="lazy"
 &lt;/div>
 &lt;/div>&lt;h3 id="end">End&lt;/h3></description></item><item><title>快速連結</title><link>https://rushionn.github.io.git/%E5%BF%AB%E9%80%9F%E9%80%A3%E7%B5%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rushionn.github.io.git/%E5%BF%AB%E9%80%9F%E9%80%A3%E7%B5%90/</guid><description>&lt;h6 id="heading">&lt;/h6>
 &lt;p>new TypeIt(&amp;quot;#element&amp;quot;, {
-lifeLike: false,
-speed: 0
-})
-.delete(13, {instant: true})
+strings: &amp;ldquo;This is my string!&amp;rdquo;,
+speed: 75,
+loop: true,
+}) .delete(13, {instant: true})
 .type(&amp;ldquo;ㄊ&amp;rdquo;)
 .pause(78)
 .type(&amp;ldquo;ㄨ&amp;rdquo;)
