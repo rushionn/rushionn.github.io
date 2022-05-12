@@ -5,11 +5,11 @@ title = " 標題 "
 date = "1898-06-04" 
 description = " 副標 " 
 tags = [
-    "標籤", 
+    "", 
     "",
 ] #標籤
 categories = [
-    "分類：模擬器.硬體相關.discord"
+    ""
 ] #分類
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]

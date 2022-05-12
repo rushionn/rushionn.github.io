@@ -47,7 +47,7 @@ image = ""
 |CPU    | [R9-3900X](https://www.amd.com/zh-hant/products/cpu/amd-ryzen-9-3900x "R9-3900X")     |   12C24T|  
 |MB     | [B550-i](https://rog.asus.com/tw/motherboards/rog-strix/rog-strix-b550-i-gaming-model/ "B550-i")    |   WiFi  |  
 |DRAM   | [DDR4-3200](https://www.teamgroupinc.com/tw/product/elite-u-dimm-ddr4 "DDR4-3200") |   32G x2|  
-|GPU    |[RTX2060OC](https://www.zotac.com/tw/product/graphics_card/zotac-gaming-geforce-rtx-2060-oc#spec "RTX2060OC")  |   ZOTAC |  
+|GPU    |[RTX2060OC](https://www.zotac.com/tw/product/graphics_card/zotac-gaming-geforce-rtx-2060-oc#spec "RTX2060OC")  |   VRAM:6G |  
 |POW    |[SF-450](https://www.corsair.com/tw/zh/%E7%B1%BB%E5%88%AB/%E4%BA%A7%E5%93%81/%E7%94%B5%E6%BA%90%E8%A3%85%E7%BD%AE/SF-Series%E2%84%A2-80-PLUS-Gold-Power-Supplies/p/CP-9020104-NA "SF-450")     |   450W  |  
 
 ------------
@@ -57,12 +57,12 @@ image = ""
 
 |組件	|使用率	|	備註	|  
 | --------   | :----:  | :----:  |
-|CPU	|	5~65%	|	只要模擬器的部分不要一次8開，就不會卡頓	|  
-|DRAM	|	5~70%	|	無異常	|  
+|CPU	|	50~65%	|	只要模擬器的部分不要一次8開，就不會卡頓	|  
+|DRAM	|	50~70%	|	無異常	|  
 |GPU	|VRAM 4~5G	|	無異常	|  
 
 ------------
 
-###心得：
-分享並記錄目前電腦情形以及練習寫靜態網頁文章，上述的硬體及備註都屬個人想法，毫無技術可言，若要參考請務必謹慎；有任何想法意見偏見或是有不同的選擇，都歡迎留言交流，。
+### 心得：  
+分享並記錄目前電腦情形以及練習寫靜態網頁，上述的硬體及備註都屬個人想法，毫無技術可言，若要參考請務必謹慎；歡迎留言交流。
 

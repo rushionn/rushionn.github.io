@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Disocrd自動轉貼YT最新影片 (IFTTT)"
 date = "2022-05-12"
-description = "最新、排定直播，都會在DC頻道內通知。"
+description = "最新影片、排定直播，都會在DC頻道內通知。"
 tags = [
     "Discord",
     "Youtube",
