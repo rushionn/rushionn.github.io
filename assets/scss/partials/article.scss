@@ -20,8 +20,8 @@
 
         .article-image {
             img {
-                width: 100%; 
-                height: 150px; 
+                width: 100%; /* 首頁文章預覽寬度 */
+                height: 150px; /* 首頁文章預覽高度 */
                 object-fit: cover;
 
                 @include respond(md) {
