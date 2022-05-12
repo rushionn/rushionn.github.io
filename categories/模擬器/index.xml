@@ -71,44 +71,7 @@ class="gallery-image"
 data-flex-grow="140"
 data-flex-basis="336px"
 >&lt;/p>
-&lt;hr>
-&lt;p>電腦配備： &lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>組件&lt;/th>
-&lt;th style="text-align:center">型號&lt;/th>
-&lt;th style="text-align:center">備註&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>CPU&lt;/td>
-&lt;td style="text-align:center">3900X&lt;/td>
-&lt;td style="text-align:center">12c24t&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>MB&lt;/td>
-&lt;td style="text-align:center">B550-i&lt;/td>
-&lt;td style="text-align:center">&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>RAM&lt;/td>
-&lt;td style="text-align:center">DDR4-3200&lt;/td>
-&lt;td style="text-align:center">16G x2&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>GPU&lt;/td>
-&lt;td style="text-align:center">RTX2060OC&lt;/td>
-&lt;td style="text-align:center">ZOTAC&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>POW&lt;/td>
-&lt;td style="text-align:center">SF-450&lt;/td>
-&lt;td style="text-align:center">&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item><item><title>模擬器一鍵多開</title><link>https://rushionn.github.io.git/p/%E6%A8%A1%E6%93%AC%E5%99%A8%E4%B8%80%E9%8D%B5%E5%A4%9A%E9%96%8B/</link><pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate><guid>https://rushionn.github.io.git/p/%E6%A8%A1%E6%93%AC%E5%99%A8%E4%B8%80%E9%8D%B5%E5%A4%9A%E9%96%8B/</guid><description>&lt;img src="https://rushionn.github.io.git/p/%E6%A8%A1%E6%93%AC%E5%99%A8%E4%B8%80%E9%8D%B5%E5%A4%9A%E9%96%8B/00010.JPG" alt="Featured image of post 模擬器一鍵多開" />&lt;!-- Global site tag (gtag.js) - Google Analytics -->
+&lt;hr></description></item><item><title>模擬器一鍵多開</title><link>https://rushionn.github.io.git/p/%E6%A8%A1%E6%93%AC%E5%99%A8%E4%B8%80%E9%8D%B5%E5%A4%9A%E9%96%8B/</link><pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate><guid>https://rushionn.github.io.git/p/%E6%A8%A1%E6%93%AC%E5%99%A8%E4%B8%80%E9%8D%B5%E5%A4%9A%E9%96%8B/</guid><description>&lt;img src="https://rushionn.github.io.git/p/%E6%A8%A1%E6%93%AC%E5%99%A8%E4%B8%80%E9%8D%B5%E5%A4%9A%E9%96%8B/00010.JPG" alt="Featured image of post 模擬器一鍵多開" />&lt;!-- Global site tag (gtag.js) - Google Analytics -->
 &lt;script async src="https://www.googletagmanager.com/gtag/js?id=G-FNDM35MCGM">&lt;/script>
 &lt;script>
 window.dataLayer = window.dataLayer || [];

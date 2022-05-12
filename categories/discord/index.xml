@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Discord on プルスウルトラ</title><link>https://rushionn.github.io.git/categories/discord/</link><description>Recent content in Discord on プルスウルトラ</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rushionn.github.io.git/categories/discord/index.xml" rel="self" type="application/rss+xml"/><item><title>Disocrd自動轉貼YT最新影片 (IFTTT)</title><link>https://rushionn.github.io.git/p/disocrd%E8%87%AA%E5%8B%95%E8%BD%89%E8%B2%BCyt%E6%9C%80%E6%96%B0%E5%BD%B1%E7%89%87-ifttt/</link><pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate><guid>https://rushionn.github.io.git/p/disocrd%E8%87%AA%E5%8B%95%E8%BD%89%E8%B2%BCyt%E6%9C%80%E6%96%B0%E5%BD%B1%E7%89%87-ifttt/</guid><description>&lt;img src="https://rushionn.github.io.git/.png" alt="Featured image of post Disocrd自動轉貼YT最新影片 (IFTTT)" />&lt;!-- Global site tag (gtag.js) - Google Analytics -->
+&lt;script async src="https://www.googletagmanager.com/gtag/js?id=G-FNDM35MCGM">&lt;/script>
+&lt;script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-FNDM35MCGM');
+&lt;/script>
+&lt;p>1－在Discord創建Webhook並命名。
+選擇想要發送訊息的特定頻道。&lt;/p>
+&lt;p>2－註冊IFTTT &lt;a class="link" href="https://ifttt.com/home" target="_blank" rel="noopener"
+>https://ifttt.com/home&lt;/a>&lt;/p>
+&lt;p>3－創建Applet &lt;a class="link" href="https://ifttt.com/create" target="_blank" rel="noopener"
+>https://ifttt.com/create&lt;/a>
+(1) 點擊&amp;quot;IF This&amp;quot;，輸入關鍵字搜尋Youtube/Twitter。
+(2) 選擇你要的發送條件。依據條件的不同，會有不同需要設定的選項或授權。
+(3) 點擊&amp;quot;Then That&amp;quot;，輸入關鍵字搜尋Webhooks。
+(4) 在&amp;quot;URL&amp;quot;，輸入&amp;quot;步驟1-Webhook的網址&amp;quot;。
+(5) 在&amp;quot;Method&amp;quot;，選擇&amp;quot;POST&amp;quot;。
+(6) 在&amp;quot;Content Type&amp;quot;，選擇&amp;quot;application/json&amp;quot;。
+(7) 在&amp;quot;Body&amp;quot;，輸入Youtube/Twitter/RSS對應指令。&lt;/p>
+&lt;p>Youtube
+轉發特定頻道 ↓↓
+{ &amp;ldquo;content&amp;rdquo;:&amp;quot; {{ChannelName}} uploaded {{Title}} in {{PublishedAt}}: {{Url}}&amp;quot; }
+轉發已訂閱特定頻道 ↓↓
+{ &amp;ldquo;content&amp;rdquo;:&amp;quot;{{AuthorName}} uploaded {{Title}} in {{CreatedAt}}: {{Url}}&amp;quot; }&lt;/p>
+&lt;p>Twitter ↓↓
+{ &amp;ldquo;content&amp;rdquo;:&amp;quot;@{{UserName}} {{CreatedAt}}: {{LinkToTweet}}&amp;quot; }&lt;/p>
+&lt;p>(8) 點擊&amp;quot;Create Action&amp;quot;。
+(9) 點擊&amp;quot;Continue&amp;quot;。
+(10) 點擊&amp;quot;Finish&amp;quot;完成。&lt;/p></description></item></channel></rss>
