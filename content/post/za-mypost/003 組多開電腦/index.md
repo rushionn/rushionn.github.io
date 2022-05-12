@@ -9,6 +9,7 @@ tags = [
 ] #標籤
 categories = [
     "硬體相關",
+    "模擬器",
 ] #分類
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
