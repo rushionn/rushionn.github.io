@@ -6,19 +6,19 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-FNDM35MCGM');
 &lt;/script>
-&lt;h2 id="1在discord創建webhook並命名">1－在Discord創建Webhook並命名。&lt;/h2>
+&lt;h2 id="在discord創建webhook並命名">在Discord創建Webhook並命名。&lt;/h2>
 &lt;p>選擇想要發送訊息的特定頻道。&lt;/p>
-&lt;h2 id="2註冊ifttt--httpsiftttcomhome">2－註冊IFTTT &lt;a class="link" href="https://ifttt.com/home" target="_blank" rel="noopener"
+&lt;h2 id="註冊ifttt--httpsiftttcomhome">註冊IFTTT &lt;a class="link" href="https://ifttt.com/home" target="_blank" rel="noopener"
 >https://ifttt.com/home&lt;/a>&lt;/h2>
-&lt;h2 id="3創建applet--httpsiftttcomcreate">3－創建Applet &lt;a class="link" href="https://ifttt.com/create" target="_blank" rel="noopener"
+&lt;h2 id="創建applet--httpsiftttcomcreate">創建Applet &lt;a class="link" href="https://ifttt.com/create" target="_blank" rel="noopener"
 >https://ifttt.com/create&lt;/a>&lt;/h2>
-&lt;h4 id="1-點擊if-this輸入關鍵字搜尋youtubetwitter">(1) 點擊&amp;quot;IF This&amp;quot;，輸入關鍵字搜尋Youtube/Twitter。&lt;/h4>
-&lt;h4 id="2-選擇你要的發送條件依據條件的不同會有不同需要設定的選項或授權">(2) 選擇你要的發送條件。依據條件的不同，會有不同需要設定的選項或授權。&lt;/h4>
-&lt;h4 id="3-點擊then-that輸入關鍵字搜尋webhooks">(3) 點擊&amp;quot;Then That&amp;quot;，輸入關鍵字搜尋Webhooks。&lt;/h4>
-&lt;h4 id="4-在url輸入步驟1-webhook的網址">(4) 在&amp;quot;URL&amp;quot;，輸入&amp;quot;步驟1-Webhook的網址&amp;quot;。&lt;/h4>
-&lt;h4 id="5-在method選擇post">(5) 在&amp;quot;Method&amp;quot;，選擇&amp;quot;POST&amp;quot;。&lt;/h4>
-&lt;h4 id="6-在content-type選擇applicationjson">(6) 在&amp;quot;Content Type&amp;quot;，選擇&amp;quot;application/json&amp;quot;。&lt;/h4>
-&lt;h4 id="7-在body輸入youtubetwitterrss對應指令">(7) 在&amp;quot;Body&amp;quot;，輸入Youtube/Twitter/RSS對應指令。&lt;/h4>
+&lt;h4 id="點擊if-this輸入關鍵字搜尋youtubetwitter">點擊&amp;quot;IF This&amp;quot;，輸入關鍵字搜尋Youtube/Twitter。&lt;/h4>
+&lt;h4 id="選擇你要的發送條件依據條件的不同會有不同需要設定的選項或授權">選擇你要的發送條件。依據條件的不同，會有不同需要設定的選項或授權。&lt;/h4>
+&lt;h4 id="點擊then-that輸入關鍵字搜尋webhooks">點擊&amp;quot;Then That&amp;quot;，輸入關鍵字搜尋Webhooks。&lt;/h4>
+&lt;h4 id="在url輸入步驟1-webhook的網址">在&amp;quot;URL&amp;quot;，輸入&amp;quot;步驟1-Webhook的網址&amp;quot;。&lt;/h4>
+&lt;h4 id="在method選擇post">在&amp;quot;Method&amp;quot;，選擇&amp;quot;POST&amp;quot;。&lt;/h4>
+&lt;h4 id="在content-type選擇applicationjson">在&amp;quot;Content Type&amp;quot;，選擇&amp;quot;application/json&amp;quot;。&lt;/h4>
+&lt;h4 id="在body輸入youtubetwitterrss對應指令">在&amp;quot;Body&amp;quot;，輸入Youtube/Twitter/RSS對應指令。&lt;/h4>
 &lt;p>Youtube
 轉發特定頻道 ↓↓
 { &amp;ldquo;content&amp;rdquo;:&amp;quot; {{ChannelName}} uploaded {{Title}} in {{PublishedAt}}: {{Url}}&amp;quot; }
