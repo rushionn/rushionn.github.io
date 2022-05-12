@@ -1,3 +1,6 @@
+---
+hidden: true
+---
 
 +++
 author = "Hugo Authors"
