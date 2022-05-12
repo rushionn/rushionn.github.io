@@ -6,7 +6,9 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-FNDM35MCGM');
 &lt;/script>
-&lt;h3 id="使用需求68開模擬器--chrome多分頁--中高階效能的遊戲3a">使用需求：6~8開模擬器 + Chrome多分頁 + 中高階效能的遊戲(3A)&lt;/h3>
+&lt;h3 id="使用需求">使用需求：&lt;/h3>
+&lt;p>6~8開模擬器 + Chrome多分頁 + 中高階效能的遊戲(3A)&lt;/p>
+&lt;!-- 插入圖片 -->
 &lt;h3 id="設備選擇">設備選擇：&lt;/h3>
 &lt;table>
 &lt;thead>
@@ -34,7 +36,7 @@ gtag('config', 'G-FNDM35MCGM');
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>========&lt;/p>
+&lt;hr>
 &lt;h3 id="目前電腦配備">目前電腦配備：&lt;/h3>
 &lt;table>
 &lt;thead>
@@ -82,7 +84,7 @@ target="_blank" rel="noopener"
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>========&lt;/p>
+&lt;hr>
 &lt;h3 id="使用狀況">使用狀況：&lt;/h3>
 &lt;p>8開模擬器(皆設4核4G記憶體)、2私服、1天堂W、1戰意(3A)、Chrome10分頁，可以順跑。&lt;/p>
 &lt;table>
@@ -111,5 +113,6 @@ target="_blank" rel="noopener"
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>========&lt;/p>
-&lt;p>心得：分享並記錄目前電腦情形以及練習寫靜態網頁文章，上述的硬體及備註都屬個人想法，毫無技術可言，若要參考請務必謹慎；若有任何想法意見偏見，也歡迎留言交流。&lt;/p></description></item></channel></rss>
+&lt;hr>
+&lt;p>###心得：
+分享並記錄目前電腦情形以及練習寫靜態網頁文章，上述的硬體及備註都屬個人想法，毫無技術可言，若要參考請務必謹慎；有任何想法意見偏見或是有不同的選擇，都歡迎留言交流，。&lt;/p></description></item></channel></rss>
