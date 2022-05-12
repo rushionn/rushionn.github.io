@@ -73,7 +73,7 @@ target="_blank" rel="noopener"
 &lt;td style="text-align:center">&lt;a class="link" href="https://www.zotac.com/tw/product/graphics_card/zotac-gaming-geforce-rtx-2060-oc#spec" title="RTX2060OC"
 target="_blank" rel="noopener"
 >RTX2060OC&lt;/a>&lt;/td>
-&lt;td style="text-align:center">ZOTAC&lt;/td>
+&lt;td style="text-align:center">VRAM:6G&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>POW&lt;/td>
@@ -98,12 +98,12 @@ target="_blank" rel="noopener"
 &lt;tbody>
 &lt;tr>
 &lt;td>CPU&lt;/td>
-&lt;td style="text-align:center">5~65%&lt;/td>
+&lt;td style="text-align:center">50~65%&lt;/td>
 &lt;td style="text-align:center">只要模擬器的部分不要一次8開，就不會卡頓&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>DRAM&lt;/td>
-&lt;td style="text-align:center">5~70%&lt;/td>
+&lt;td style="text-align:center">50~70%&lt;/td>
 &lt;td style="text-align:center">無異常&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -114,5 +114,5 @@ target="_blank" rel="noopener"
 &lt;/tbody>
 &lt;/table>
 &lt;hr>
-&lt;p>###心得：
-分享並記錄目前電腦情形以及練習寫靜態網頁文章，上述的硬體及備註都屬個人想法，毫無技術可言，若要參考請務必謹慎；有任何想法意見偏見或是有不同的選擇，都歡迎留言交流，。&lt;/p></description></item></channel></rss>
+&lt;h3 id="心得">心得：&lt;/h3>
+&lt;p>分享並記錄目前電腦情形以及練習寫靜態網頁，上述的硬體及備註都屬個人想法，毫無技術可言，若要參考請務必謹慎；歡迎留言交流。&lt;/p></description></item></channel></rss>
