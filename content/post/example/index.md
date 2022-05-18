@@ -31,4 +31,4 @@ image = "spiderman1.gif"
 
 正文開始
 
-
+![](spiderman1.gif)  
