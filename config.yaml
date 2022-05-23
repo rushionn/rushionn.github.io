@@ -142,13 +142,16 @@ params:
     widgets:
         homepage:
             - type: 
-            - type: archives
+            - type: 
               params:
-                  limit: 5
-            - type: categories
+                  limit: 
+            - type: 
+              params:
+                  limit: 
+            - type: tag-cloud
               params:
                   limit: 10
-            - type: tag-cloud
+            - type: search
               params:
                   limit: 10
         page:
