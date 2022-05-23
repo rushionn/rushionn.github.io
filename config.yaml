@@ -2,7 +2,7 @@ baseurl: https://rushionn.github.io.git
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: 路先生你好
+title: プルスウルトラ
 
 languages:
     en:
@@ -46,7 +46,7 @@ params:
 
     sidebar:
         emoji: false
-        subtitle: 夢想成為快樂肥宅
+        subtitle: 路先生，夢想成為快樂肥宅。
         avatar:
             enabled: true
             local: true
