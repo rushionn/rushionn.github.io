@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: 關於本站
 description: 這裡也可以打一點內容
 date: '2022-03-01'
