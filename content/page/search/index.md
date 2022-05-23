@@ -1,5 +1,5 @@
 ---
-title: "Search 輸入關鍵字搜尋"
+title: "搜尋"
 slug: "search"
 layout: "search"
 outputs:
