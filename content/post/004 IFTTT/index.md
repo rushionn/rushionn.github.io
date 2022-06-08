@@ -58,6 +58,6 @@ Twitter ↓↓
 { "content":"@{{UserName}} {{CreatedAt}}: {{LinkToTweet}}" }  
   
 ![範例](ifttt-07.jpg) 
-#### (8) 點擊"Create Action"。
-#### (9) 點擊"Continue"。
-#### (10) 點擊"Finish"完成。
+#### 點擊"Create Action"。
+#### 點擊"Continue"。
+#### 點擊"Finish"完成。

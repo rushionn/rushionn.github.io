@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Nvdia控制面板、模擬器對應設定"
+title = "Nvidia控制面板、模擬器對應設定"
 date = "2022-03-15"
 description = "減少遊戲閃退狀況。"
 tags = [
@@ -25,7 +25,7 @@ image = "002.png"
 </script>
 
 
-## 開啟Nvdia控制面板
+## 開啟Nvidia控制面板
 
 ![](Nvidia.png)  
   
@@ -35,7 +35,7 @@ image = "002.png"
   
 ## 程式設定  
 
-![](Nvdia控制面板.png)
+![](Nvidia控制面板.png)
 
 
 ------------
