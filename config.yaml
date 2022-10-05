@@ -46,7 +46,7 @@ params:
 
     sidebar:
         emoji: false
-        subtitle: 路先生，夢想成為快樂肥宅。
+        subtitle: 測試中。
         avatar:
             enabled: true
             local: true
